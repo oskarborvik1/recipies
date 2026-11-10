@@ -1,3 +1,6 @@
-Guacomole
-Ingredients
-Instructions
+#Guacomole
+##Ingredients
+*avocado
+*lemon
+*salt
+*Instructions
